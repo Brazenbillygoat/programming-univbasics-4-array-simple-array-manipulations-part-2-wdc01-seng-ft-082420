@@ -3,6 +3,22 @@ def using_concat(array1, array2)
 end
 
 def using insert(array, element)
-  return array.insert(4, )
+  return array.insert(4, element)
+end
+
+def using_uniq(array)
+  return array.uniq
+end
+
+def using_flatten(array)
+
+end
+
+def using delete(array, string)
+
+end
+
+def using_delete_at(array, integer)
+
 end
 
