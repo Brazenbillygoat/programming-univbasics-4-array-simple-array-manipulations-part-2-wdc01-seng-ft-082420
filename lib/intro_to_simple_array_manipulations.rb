@@ -11,11 +11,11 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-
+  return array.flatten()
 end
 
 def using delete(array, string)
-
+  array.delete(string)
 end
 
 def using_delete_at(array, integer)
